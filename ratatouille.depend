@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1648902372 source:/mnt/A6C67CCDC67C9EED/#WORKSHOP#/#FORGE#/rattish-lang-projects/ratatouille/main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<time.h>
+	<stack>
+
+1650750079 source:/media/sarverott/setternet-A9/#WORKSHOP#/#FORGE#/rattish-lang-projects/ratatouille/main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<time.h>
+	<queue>
+
+1650750079 source:/media/sarverott/setternet-A9/#WORKSHOP#/#FORGE#/rattish-lang-projects/ratatouille/ratatouille/main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<time.h>
+	<queue>
+
